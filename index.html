@@ -44,7 +44,7 @@ function buildSeason(s,i){
  '<aside class="hero-card"><h3>賽季摘要</h3><div class="mini-list">'+summaryHtml+'</div>'+
  (s.notes.length?'<div class="notice" style="margin-top:14px">'+s.notes.map(escapeHtml).join('<br>')+'</div>':'')+'</aside></div>'+
  (noDetails?'':'<div class="season-nav"><button class="active" data-subtab="ranking">贈訂排行榜</button><button data-subtab="rounds">Round</button><button data-subtab="extras">祭品／時數</button></div>')+
- (noDetails?'<div class="section panel empty"><h3>此賽季沒有逐場訂閱紀錄</h3><p>原始 Excel 僅提供最終戰績、訂閱數與備註，因此本頁保留總結資訊，不推算不存在的排行榜。</p></div>':
+ (noDetails?'<div class="section panel empty"><h3>此賽季沒有逐場訂閱紀錄</h3></div>':
  '<div class="season-subpage active" data-subpage="ranking"><div class="section"><div class="section-head"><div><h3>前10榜單贈訂加總 Top 10</h3><p>依該賽季每場前 10 榜單加總，清除名字前後空白後合併。</p></div></div><div class="panel top-list">'+top10+'</div>'+
  '<div class="section panel"><div class="section-head"><div><h3>完整總榜</h3><p>搜尋本季所有曾進入單場前 10 的贈訂者。</p></div></div><div class="controls"><input class="control leader-search" placeholder="搜尋贈訂者名稱"></div><div class="table-wrap"><table class="data-table"><thead><tr><th>名次</th><th>名稱</th><th class="hide-mobile">上榜次數</th><th class="hide-mobile">單場第一</th><th>贈訂總數</th></tr></thead><tbody class="leader-body"></tbody></table></div></div></div></div>'+
  '<div class="season-subpage" data-subpage="rounds"><div class="section"><div class="section-head"><div><h3>Round 戰績</h3><p>展開卡片查看單場前 10、掉裝、最高 DPS 與得獎者。</p></div></div><div class="controls"><input class="control round-search" placeholder="搜尋 Round、名字或獎品"><select class="control round-sort"><option value="number">依 Round</option><option value="total">依贈訂總數</option></select></div><div class="round-grid"></div></div></div>')+
