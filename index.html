@@ -29,9 +29,9 @@ function buildSeason(s,i){
  const max=s.leaderboard[0]?.total||1;
  const summaries={
   1:[['世界排名','20'],['亞洲排名','1']],
-  2:[['世界排名','4'],['亞洲排名','1'],['訂閱榜首','糖炒栗子羊']],
+  2:[['世界排名','4'],['亞洲排名','1'],['Top10榜首','糖炒栗子羊']],
   3:[['世界排名','5'],['亞洲排名','1'],['Top10榜首','loger128'],['總訂閱榜首','糖炒栗子羊']],
-  4:[['世界排名','4'],['亞洲排名','1'],['訂閱榜首','逍遙隱士']]
+  4:[['世界排名','4'],['亞洲排名','1'],['Top10榜首','逍遙隱士']]
  };
  const summaryHtml=summaries[s.seasonIndex].map(x=>'<div class="mini"><span>'+x[0]+'</span><b>'+escapeHtml(x[1])+'</b></div>').join('');
  const top10=s.leaderboard.slice(0,10).map(x=>'<div class="rank-row '+(x.rank===1?'first':'')+'"><div class="rank-no">'+(['','🥇','🥈','🥉'][x.rank]||'#'+x.rank)+'</div><div><div class="rank-name">'+escapeHtml(x.name)+'</div><div class="meta">上榜 '+x.appearances+' 場 · 單場第一 '+x.firsts+' 次 · 最高 '+fmt(x.best)+'</div><div class="bar"><i style="width:'+(x.total/max*100)+'%"></i></div></div><div class="amount">'+fmt(x.total)+' 訂</div></div>').join('');
