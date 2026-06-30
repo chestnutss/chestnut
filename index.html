@@ -1,4 +1,4 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="zh-Hant">
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
@@ -83,9 +83,13 @@ document.getElementById('seasonPages').innerHTML=DATA.seasons.map(buildSeason).j
  page.querySelectorAll('.season-subpage').forEach(p=>{if(!['rules','extras'].includes(p.dataset.subpage))p.remove();p.classList.remove('active')});
  const rules=page.querySelector('[data-subpage="rules"]');
  if(rules){
-  const items=ruleNote.split('\n').filter(x=>x.trim()).map(x=>'<li>'+x+'</li>').join('');
+  const rawLines=ruleNote.split('\n').map(x=>x.trim()).filter(Boolean);
+  const bonusIndex=rawLines.findIndex(x=>x.includes('加碼規則'));
+  const mainLines=rawLines.filter((x,idx)=>idx>0&&(bonusIndex<0||idx<bonusIndex));
+  const bonusLines=bonusIndex>=0?rawLines.slice(bonusIndex+1):[];
+  const rowHtml=lines=>'<div class="rules-list plain">'+lines.map(x=>'<div class="rule-row">'+x+'</div>').join('')+'</div>';
   rules.classList.add('active');
-  rules.innerHTML='<div class="section panel"><div class="section-head"><div><h3>下班台規則</h3><p>第 5 賽季適用規則。</p></div></div><ol class="rules-list">'+items+'</ol></div>';
+  rules.innerHTML='<div class="section panel"><div class="section-head"><div><h3>下班台規則</h3><p>第 5 賽季適用規則。</p></div></div>'+rowHtml(mainLines)+'<div class="section-head" style="margin-top:22px"><div><h3>加碼規則</h3></div></div>'+rowHtml(bonusLines)+'</div>';
  }
  const extras=page.querySelector('[data-subpage="extras"]');
  if(extras){extras.classList.remove('active');const p=extras.querySelector('.section-head p');if(p)p.textContent='祭品資訊；時數紀錄與特殊獎勵目前先維持空白。'}
