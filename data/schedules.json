@@ -2279,11 +2279,20 @@
         "workSeconds": 29,
         "barSeconds": 7179,
         "mode": "stream"
+      },
+      {
+        "round": 5,
+        "start": "2026-07-03 18:03",
+        "streamSeconds": 10663,
+        "workSeconds": 24,
+        "barSeconds": 10663,
+        "mode": "stream"
       }
     ],
     "dates": [
       "2026-07-01",
-      "2026-07-02"
+      "2026-07-02",
+      "2026-07-03"
     ],
     "segments": [
       {
@@ -2312,6 +2321,13 @@
         "date": "2026-07-02",
         "start": 1113,
         "end": 1232.65,
+        "kind": "stream"
+      },
+      {
+        "round": 5,
+        "date": "2026-07-03",
+        "start": 1083,
+        "end": 1260.7166666667,
         "kind": "stream"
       }
     ]
