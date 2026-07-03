@@ -31596,7 +31596,7 @@
       "title": "2026年8月 下班台第五賽季",
       "tabLabel": "2026年8月",
       "wins": 0,
-      "losses": 2,
+      "losses": 4,
       "fastest": "",
       "finalSubs": 0,
       "worldRankText": "",
@@ -31710,6 +31710,188 @@
               "winner": ""
             }
           ]
+        },
+        {
+          "number": 3,
+          "drop": "4%周邊",
+          "topDps": "糖炒栗子羊",
+          "total": 1315,
+          "winner": "智胖胖胖羊",
+          "notes": [],
+          "records": [
+            {
+              "season": 5,
+              "round": 3,
+              "rank": 1,
+              "name": "糖炒栗子羊",
+              "amount": 1000,
+              "roll": 14,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 3,
+              "rank": 2,
+              "name": "哇係阿賢",
+              "amount": 100,
+              "roll": 78,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 3,
+              "rank": 3,
+              "name": "夏目悠希",
+              "amount": 100,
+              "roll": 50,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 3,
+              "rank": 4,
+              "name": "豪游天下",
+              "amount": 50,
+              "roll": 37,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 3,
+              "rank": 5,
+              "name": "冠腸",
+              "amount": 50,
+              "roll": 82,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 3,
+              "rank": 6,
+              "name": "羊霧豹發的潛水貢丸",
+              "amount": 5,
+              "roll": 19,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 3,
+              "rank": 7,
+              "name": "天台吹風的老羊",
+              "amount": 5,
+              "roll": 37,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 3,
+              "rank": 8,
+              "name": "智胖胖胖羊",
+              "amount": 5,
+              "roll": 100,
+              "winner": "智胖胖胖羊"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "drop": "4%周邊",
+          "topDps": "六翼天使",
+          "total": 1000,
+          "winner": "maski0516、米刻羊",
+          "notes": [],
+          "records": [
+            {
+              "season": 5,
+              "round": 4,
+              "rank": 1,
+              "name": "六翼天使",
+              "amount": 200,
+              "roll": 93,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 4,
+              "rank": 2,
+              "name": "桌曆透卡夾五千椅子盲盒羊",
+              "amount": 100,
+              "roll": 64,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 4,
+              "rank": 3,
+              "name": "沒欠你哎_木工羊",
+              "amount": 100,
+              "roll": 19,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 4,
+              "rank": 4,
+              "name": "半吋",
+              "amount": 100,
+              "roll": 6,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 4,
+              "rank": 5,
+              "name": "米刻羊",
+              "amount": 100,
+              "roll": "沒轉到",
+              "winner": "米刻羊"
+            },
+            {
+              "season": 5,
+              "round": 4,
+              "rank": 6,
+              "name": "哇係阿賢",
+              "amount": 100,
+              "roll": 90,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 4,
+              "rank": 7,
+              "name": "ulay1227",
+              "amount": 100,
+              "roll": 35,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 4,
+              "rank": 8,
+              "name": "阿宏羊",
+              "amount": 100,
+              "roll": 36,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 4,
+              "rank": 9,
+              "name": "天台上的阿肥",
+              "amount": 50,
+              "roll": 33,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 4,
+              "rank": 10,
+              "name": "maski0516",
+              "amount": 50,
+              "roll": 98,
+              "winner": "maski0516"
+            }
+          ]
         }
       ],
       "records": [
@@ -31766,11 +31948,181 @@
           "amount": 1000,
           "roll": 51,
           "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 3,
+          "rank": 1,
+          "name": "糖炒栗子羊",
+          "amount": 1000,
+          "roll": 14,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 3,
+          "rank": 2,
+          "name": "哇係阿賢",
+          "amount": 100,
+          "roll": 78,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 3,
+          "rank": 3,
+          "name": "夏目悠希",
+          "amount": 100,
+          "roll": 50,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 3,
+          "rank": 4,
+          "name": "豪游天下",
+          "amount": 50,
+          "roll": 37,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 3,
+          "rank": 5,
+          "name": "冠腸",
+          "amount": 50,
+          "roll": 82,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 3,
+          "rank": 6,
+          "name": "羊霧豹發的潛水貢丸",
+          "amount": 5,
+          "roll": 19,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 3,
+          "rank": 7,
+          "name": "天台吹風的老羊",
+          "amount": 5,
+          "roll": 37,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 3,
+          "rank": 8,
+          "name": "智胖胖胖羊",
+          "amount": 5,
+          "roll": 100,
+          "winner": "智胖胖胖羊"
+        },
+        {
+          "season": 5,
+          "round": 4,
+          "rank": 1,
+          "name": "六翼天使",
+          "amount": 200,
+          "roll": 93,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 4,
+          "rank": 2,
+          "name": "桌曆透卡夾五千椅子盲盒羊",
+          "amount": 100,
+          "roll": 64,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 4,
+          "rank": 3,
+          "name": "沒欠你哎_木工羊",
+          "amount": 100,
+          "roll": 19,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 4,
+          "rank": 4,
+          "name": "半吋",
+          "amount": 100,
+          "roll": 6,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 4,
+          "rank": 5,
+          "name": "米刻羊",
+          "amount": 100,
+          "roll": "沒轉到",
+          "winner": "米刻羊"
+        },
+        {
+          "season": 5,
+          "round": 4,
+          "rank": 6,
+          "name": "哇係阿賢",
+          "amount": 100,
+          "roll": 90,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 4,
+          "rank": 7,
+          "name": "ulay1227",
+          "amount": 100,
+          "roll": 35,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 4,
+          "rank": 8,
+          "name": "阿宏羊",
+          "amount": 100,
+          "roll": 36,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 4,
+          "rank": 9,
+          "name": "天台上的阿肥",
+          "amount": 50,
+          "roll": 33,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 4,
+          "rank": 10,
+          "name": "maski0516",
+          "amount": 50,
+          "roll": 98,
+          "winner": "maski0516"
         }
       ],
       "leaderboard": [
         {
           "rank": 1,
+          "name": "糖炒栗子羊",
+          "total": 1010,
+          "appearances": 2,
+          "firsts": 1,
+          "best": 1000
+        },
+        {
+          "rank": 2,
           "name": "恭賀百敗六九羊",
           "total": 1000,
           "appearances": 1,
@@ -31778,7 +32130,7 @@
           "best": 1000
         },
         {
-          "rank": 2,
+          "rank": 3,
           "name": "迷路的小羊",
           "total": 1000,
           "appearances": 1,
@@ -31786,7 +32138,7 @@
           "best": 1000
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "lokevin",
           "total": 1000,
           "appearances": 1,
@@ -31794,7 +32146,111 @@
           "best": 1000
         },
         {
-          "rank": 4,
+          "rank": 5,
+          "name": "哇係阿賢",
+          "total": 200,
+          "appearances": 2,
+          "firsts": 0,
+          "best": 100
+        },
+        {
+          "rank": 6,
+          "name": "六翼天使",
+          "total": 200,
+          "appearances": 1,
+          "firsts": 1,
+          "best": 200
+        },
+        {
+          "rank": 7,
+          "name": "夏目悠希",
+          "total": 100,
+          "appearances": 1,
+          "firsts": 0,
+          "best": 100
+        },
+        {
+          "rank": 8,
+          "name": "桌曆透卡夾五千椅子盲盒羊",
+          "total": 100,
+          "appearances": 1,
+          "firsts": 0,
+          "best": 100
+        },
+        {
+          "rank": 9,
+          "name": "沒欠你哎_木工羊",
+          "total": 100,
+          "appearances": 1,
+          "firsts": 0,
+          "best": 100
+        },
+        {
+          "rank": 10,
+          "name": "半吋",
+          "total": 100,
+          "appearances": 1,
+          "firsts": 0,
+          "best": 100
+        },
+        {
+          "rank": 11,
+          "name": "米刻羊",
+          "total": 100,
+          "appearances": 1,
+          "firsts": 0,
+          "best": 100
+        },
+        {
+          "rank": 12,
+          "name": "ulay1227",
+          "total": 100,
+          "appearances": 1,
+          "firsts": 0,
+          "best": 100
+        },
+        {
+          "rank": 13,
+          "name": "阿宏羊",
+          "total": 100,
+          "appearances": 1,
+          "firsts": 0,
+          "best": 100
+        },
+        {
+          "rank": 14,
+          "name": "豪游天下",
+          "total": 50,
+          "appearances": 1,
+          "firsts": 0,
+          "best": 50
+        },
+        {
+          "rank": 15,
+          "name": "冠腸",
+          "total": 50,
+          "appearances": 1,
+          "firsts": 0,
+          "best": 50
+        },
+        {
+          "rank": 16,
+          "name": "天台上的阿肥",
+          "total": 50,
+          "appearances": 1,
+          "firsts": 0,
+          "best": 50
+        },
+        {
+          "rank": 17,
+          "name": "maski0516",
+          "total": 50,
+          "appearances": 1,
+          "firsts": 0,
+          "best": 50
+        },
+        {
+          "rank": 18,
           "name": "百敗恭賀爸媽羊",
           "total": 10,
           "appearances": 1,
@@ -31802,15 +32258,31 @@
           "best": 10
         },
         {
-          "rank": 5,
-          "name": "糖炒栗子羊",
-          "total": 10,
+          "rank": 19,
+          "name": "羊霧豹發的潛水貢丸",
+          "total": 5,
           "appearances": 1,
           "firsts": 0,
-          "best": 10
+          "best": 5
         },
         {
-          "rank": 6,
+          "rank": 20,
+          "name": "天台吹風的老羊",
+          "total": 5,
+          "appearances": 1,
+          "firsts": 0,
+          "best": 5
+        },
+        {
+          "rank": 21,
+          "name": "智胖胖胖羊",
+          "total": 5,
+          "appearances": 1,
+          "firsts": 0,
+          "best": 5
+        },
+        {
+          "rank": 22,
           "name": "pc950167",
           "total": 1,
           "appearances": 1,
@@ -31818,7 +32290,7 @@
           "best": 1
         }
       ],
-      "listedGiftTotal": 3021
+      "listedGiftTotal": 5336
     }
   ]
 }
