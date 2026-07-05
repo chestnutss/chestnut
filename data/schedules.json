@@ -2287,12 +2287,29 @@
         "workSeconds": 24,
         "barSeconds": 10663,
         "mode": "stream"
+      },
+      {
+        "round": 6,
+        "start": "2026-07-04 10:26",
+        "streamSeconds": 1394,
+        "workSeconds": 24,
+        "barSeconds": 1394,
+        "mode": "stream"
+      },
+      {
+        "round": 7,
+        "start": "2026-07-04 22:54",
+        "streamSeconds": 1420,
+        "workSeconds": 13,
+        "barSeconds": 1420,
+        "mode": "stream"
       }
     ],
     "dates": [
       "2026-07-01",
       "2026-07-02",
-      "2026-07-03"
+      "2026-07-03",
+      "2026-07-04"
     ],
     "segments": [
       {
@@ -2328,6 +2345,20 @@
         "date": "2026-07-03",
         "start": 1083,
         "end": 1260.7166666667,
+        "kind": "stream"
+      },
+      {
+        "round": 6,
+        "date": "2026-07-04",
+        "start": 626,
+        "end": 649.2333333333,
+        "kind": "stream"
+      },
+      {
+        "round": 7,
+        "date": "2026-07-04",
+        "start": 1374,
+        "end": 1397.6666666667,
         "kind": "stream"
       }
     ]
