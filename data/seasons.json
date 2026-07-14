@@ -31596,7 +31596,7 @@
       "title": "2026年8月 下班台第五賽季",
       "tabLabel": "2026年8月",
       "wins": 0,
-      "losses": 18,
+      "losses": 22,
       "fastest": "",
       "finalSubs": 0,
       "worldRankText": "",
@@ -33184,6 +33184,406 @@
               "winner": ""
             }
           ]
+        },
+        {
+          "number": 19,
+          "drop": "特好喝金卡月希大禮包",
+          "topDps": "慾望的非洲羊",
+          "total": 705,
+          "winner": "不是抽獎羊",
+          "notes": [],
+          "records": [
+            {
+              "season": 5,
+              "round": 19,
+              "rank": 1,
+              "name": "慾望的非洲羊",
+              "amount": 100,
+              "roll": 64,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 19,
+              "rank": 2,
+              "name": "不是抽獎羊",
+              "amount": 100,
+              "roll": 87,
+              "winner": "不是抽獎羊"
+            },
+            {
+              "season": 5,
+              "round": 19,
+              "rank": 3,
+              "name": "鐵鮪7315",
+              "amount": 70,
+              "roll": 57,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 19,
+              "rank": 4,
+              "name": "尾田",
+              "amount": 70,
+              "roll": 2,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 19,
+              "rank": 5,
+              "name": "慾望的尋愛羊",
+              "amount": 65,
+              "roll": 85,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 19,
+              "rank": 6,
+              "name": "首勝百敗六九羊",
+              "amount": 60,
+              "roll": 34,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 19,
+              "rank": 7,
+              "name": "羊壽豹發的潛水貢丸",
+              "amount": 60,
+              "roll": 28,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 19,
+              "rank": 8,
+              "name": "Twinkling1008",
+              "amount": 60,
+              "roll": 2,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 19,
+              "rank": 9,
+              "name": "紫妹光頭韭菜小丑羊",
+              "amount": 60,
+              "roll": 66,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 19,
+              "rank": 10,
+              "name": "首勝百敗阿龍羊",
+              "amount": 60,
+              "roll": 37,
+              "winner": ""
+            }
+          ]
+        },
+        {
+          "number": 20,
+          "drop": "實況主周邊",
+          "topDps": "保羅麵包坊",
+          "total": 745,
+          "winner": "朝思想汐的小丑月尹羊",
+          "notes": [],
+          "records": [
+            {
+              "season": 5,
+              "round": 20,
+              "rank": 1,
+              "name": "保羅麵包坊",
+              "amount": 110,
+              "roll": 40,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 20,
+              "rank": 2,
+              "name": "慾望的尋愛羊",
+              "amount": 100,
+              "roll": 6,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 20,
+              "rank": 3,
+              "name": "加班滑手機",
+              "amount": 100,
+              "roll": 67,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 20,
+              "rank": 4,
+              "name": "chiachi_love",
+              "amount": 100,
+              "roll": 73,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 20,
+              "rank": 5,
+              "name": "朝思想汐的小丑月尹羊",
+              "amount": 100,
+              "roll": 99,
+              "winner": "朝思想汐的小丑月尹羊"
+            },
+            {
+              "season": 5,
+              "round": 20,
+              "rank": 6,
+              "name": "justfree0728",
+              "amount": 50,
+              "roll": 52,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 20,
+              "rank": 7,
+              "name": "尾田",
+              "amount": 50,
+              "roll": 17,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 20,
+              "rank": 8,
+              "name": "慾望始於領到股息肥宅羊",
+              "amount": 50,
+              "roll": 85,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 20,
+              "rank": 9,
+              "name": "佈佈貓",
+              "amount": 45,
+              "roll": 60,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 20,
+              "rank": 10,
+              "name": "羊壽豹發的潛水貢丸",
+              "amount": 40,
+              "roll": 21,
+              "winner": ""
+            }
+          ]
+        },
+        {
+          "number": 21,
+          "drop": "4%周邊",
+          "topDps": "不是抽獎羊",
+          "total": 799,
+          "winner": "冠腸",
+          "notes": [],
+          "records": [
+            {
+              "season": 5,
+              "round": 21,
+              "rank": 1,
+              "name": "不是抽獎羊",
+              "amount": 150,
+              "roll": 49,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 21,
+              "rank": 2,
+              "name": "月夜風",
+              "amount": 100,
+              "roll": 36,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 21,
+              "rank": 3,
+              "name": "安靜の小鈴铛",
+              "amount": 100,
+              "roll": 37,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 21,
+              "rank": 4,
+              "name": "斷腸人路人羊",
+              "amount": 100,
+              "roll": 76,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 21,
+              "rank": 5,
+              "name": "橘牆老鼠會志工賈斯汀",
+              "amount": 88,
+              "roll": 79,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 21,
+              "rank": 6,
+              "name": "尾田",
+              "amount": 60,
+              "roll": 11,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 21,
+              "rank": 7,
+              "name": "魔美風",
+              "amount": 51,
+              "roll": 13,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 21,
+              "rank": 8,
+              "name": "冠腸",
+              "amount": 50,
+              "roll": 82,
+              "winner": "冠腸"
+            },
+            {
+              "season": 5,
+              "round": 21,
+              "rank": 9,
+              "name": "克洛伊3109",
+              "amount": 50,
+              "roll": 68,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 21,
+              "rank": 10,
+              "name": "隨緣貢丸",
+              "amount": 50,
+              "roll": 28,
+              "winner": ""
+            }
+          ]
+        },
+        {
+          "number": 22,
+          "drop": "毛起來抽景品",
+          "topDps": "加班滑手機",
+          "total": 912,
+          "winner": "垃圾收集蕃薯羊",
+          "notes": [],
+          "records": [
+            {
+              "season": 5,
+              "round": 22,
+              "rank": 1,
+              "name": "加班滑手機",
+              "amount": 300,
+              "roll": 25,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 22,
+              "rank": 2,
+              "name": "阿嚕咪",
+              "amount": 100,
+              "roll": 53,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 22,
+              "rank": 3,
+              "name": "豪游天下",
+              "amount": 100,
+              "roll": 34,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 22,
+              "rank": 4,
+              "name": "肉攤星肉羊",
+              "amount": 100,
+              "roll": 11,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 22,
+              "rank": 5,
+              "name": "新來的阿特",
+              "amount": 100,
+              "roll": 53,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 22,
+              "rank": 6,
+              "name": "垃圾收集蕃薯羊",
+              "amount": 50,
+              "roll": 85,
+              "winner": "垃圾收集蕃薯羊"
+            },
+            {
+              "season": 5,
+              "round": 22,
+              "rank": 7,
+              "name": "尾田",
+              "amount": 50,
+              "roll": 22,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 22,
+              "rank": 8,
+              "name": "羊壽豹發的潛水貢丸",
+              "amount": 40,
+              "roll": 6,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 22,
+              "rank": 9,
+              "name": "糖炒栗子羊",
+              "amount": 37,
+              "roll": 71,
+              "winner": ""
+            },
+            {
+              "season": 5,
+              "round": 22,
+              "rank": 10,
+              "name": "冠腸",
+              "amount": 35,
+              "roll": 46,
+              "winner": ""
+            }
+          ]
         }
       ],
       "records": [
@@ -34554,22 +34954,382 @@
           "amount": 1,
           "roll": 26,
           "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 19,
+          "rank": 1,
+          "name": "慾望的非洲羊",
+          "amount": 100,
+          "roll": 64,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 19,
+          "rank": 2,
+          "name": "不是抽獎羊",
+          "amount": 100,
+          "roll": 87,
+          "winner": "不是抽獎羊"
+        },
+        {
+          "season": 5,
+          "round": 19,
+          "rank": 3,
+          "name": "鐵鮪7315",
+          "amount": 70,
+          "roll": 57,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 19,
+          "rank": 4,
+          "name": "尾田",
+          "amount": 70,
+          "roll": 2,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 19,
+          "rank": 5,
+          "name": "慾望的尋愛羊",
+          "amount": 65,
+          "roll": 85,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 19,
+          "rank": 6,
+          "name": "首勝百敗六九羊",
+          "amount": 60,
+          "roll": 34,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 19,
+          "rank": 7,
+          "name": "羊壽豹發的潛水貢丸",
+          "amount": 60,
+          "roll": 28,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 19,
+          "rank": 8,
+          "name": "Twinkling1008",
+          "amount": 60,
+          "roll": 2,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 19,
+          "rank": 9,
+          "name": "紫妹光頭韭菜小丑羊",
+          "amount": 60,
+          "roll": 66,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 19,
+          "rank": 10,
+          "name": "首勝百敗阿龍羊",
+          "amount": 60,
+          "roll": 37,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 20,
+          "rank": 1,
+          "name": "保羅麵包坊",
+          "amount": 110,
+          "roll": 40,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 20,
+          "rank": 2,
+          "name": "慾望的尋愛羊",
+          "amount": 100,
+          "roll": 6,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 20,
+          "rank": 3,
+          "name": "加班滑手機",
+          "amount": 100,
+          "roll": 67,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 20,
+          "rank": 4,
+          "name": "chiachi_love",
+          "amount": 100,
+          "roll": 73,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 20,
+          "rank": 5,
+          "name": "朝思想汐的小丑月尹羊",
+          "amount": 100,
+          "roll": 99,
+          "winner": "朝思想汐的小丑月尹羊"
+        },
+        {
+          "season": 5,
+          "round": 20,
+          "rank": 6,
+          "name": "justfree0728",
+          "amount": 50,
+          "roll": 52,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 20,
+          "rank": 7,
+          "name": "尾田",
+          "amount": 50,
+          "roll": 17,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 20,
+          "rank": 8,
+          "name": "慾望始於領到股息肥宅羊",
+          "amount": 50,
+          "roll": 85,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 20,
+          "rank": 9,
+          "name": "佈佈貓",
+          "amount": 45,
+          "roll": 60,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 20,
+          "rank": 10,
+          "name": "羊壽豹發的潛水貢丸",
+          "amount": 40,
+          "roll": 21,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 21,
+          "rank": 1,
+          "name": "不是抽獎羊",
+          "amount": 150,
+          "roll": 49,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 21,
+          "rank": 2,
+          "name": "月夜風",
+          "amount": 100,
+          "roll": 36,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 21,
+          "rank": 3,
+          "name": "安靜の小鈴铛",
+          "amount": 100,
+          "roll": 37,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 21,
+          "rank": 4,
+          "name": "斷腸人路人羊",
+          "amount": 100,
+          "roll": 76,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 21,
+          "rank": 5,
+          "name": "橘牆老鼠會志工賈斯汀",
+          "amount": 88,
+          "roll": 79,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 21,
+          "rank": 6,
+          "name": "尾田",
+          "amount": 60,
+          "roll": 11,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 21,
+          "rank": 7,
+          "name": "魔美風",
+          "amount": 51,
+          "roll": 13,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 21,
+          "rank": 8,
+          "name": "冠腸",
+          "amount": 50,
+          "roll": 82,
+          "winner": "冠腸"
+        },
+        {
+          "season": 5,
+          "round": 21,
+          "rank": 9,
+          "name": "克洛伊3109",
+          "amount": 50,
+          "roll": 68,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 21,
+          "rank": 10,
+          "name": "隨緣貢丸",
+          "amount": 50,
+          "roll": 28,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 22,
+          "rank": 1,
+          "name": "加班滑手機",
+          "amount": 300,
+          "roll": 25,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 22,
+          "rank": 2,
+          "name": "阿嚕咪",
+          "amount": 100,
+          "roll": 53,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 22,
+          "rank": 3,
+          "name": "豪游天下",
+          "amount": 100,
+          "roll": 34,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 22,
+          "rank": 4,
+          "name": "肉攤星肉羊",
+          "amount": 100,
+          "roll": 11,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 22,
+          "rank": 5,
+          "name": "新來的阿特",
+          "amount": 100,
+          "roll": 53,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 22,
+          "rank": 6,
+          "name": "垃圾收集蕃薯羊",
+          "amount": 50,
+          "roll": 85,
+          "winner": "垃圾收集蕃薯羊"
+        },
+        {
+          "season": 5,
+          "round": 22,
+          "rank": 7,
+          "name": "尾田",
+          "amount": 50,
+          "roll": 22,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 22,
+          "rank": 8,
+          "name": "羊壽豹發的潛水貢丸",
+          "amount": 40,
+          "roll": 6,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 22,
+          "rank": 9,
+          "name": "糖炒栗子羊",
+          "amount": 37,
+          "roll": 71,
+          "winner": ""
+        },
+        {
+          "season": 5,
+          "round": 22,
+          "rank": 10,
+          "name": "冠腸",
+          "amount": 35,
+          "roll": 46,
+          "winner": ""
         }
       ],
       "leaderboard": [
         {
           "rank": 1,
           "name": "安靜の小鈴铛",
-          "total": 1260,
-          "appearances": 6,
+          "total": 1360,
+          "appearances": 7,
           "firsts": 2,
           "best": 1000
         },
         {
           "rank": 2,
           "name": "糖炒栗子羊",
-          "total": 1203,
-          "appearances": 8,
+          "total": 1240,
+          "appearances": 9,
           "firsts": 1,
           "best": 1000
         },
@@ -34647,6 +35407,22 @@
         },
         {
           "rank": 12,
+          "name": "加班滑手機",
+          "total": 702,
+          "appearances": 5,
+          "firsts": 2,
+          "best": 300
+        },
+        {
+          "rank": 13,
+          "name": "尾田",
+          "total": 431,
+          "appearances": 8,
+          "firsts": 0,
+          "best": 100
+        },
+        {
+          "rank": 14,
           "name": "哇係阿賢",
           "total": 400,
           "appearances": 5,
@@ -34654,23 +35430,23 @@
           "best": 100
         },
         {
-          "rank": 13,
+          "rank": 15,
           "name": "冠腸",
-          "total": 305,
-          "appearances": 5,
+          "total": 390,
+          "appearances": 7,
           "firsts": 0,
           "best": 100
         },
         {
-          "rank": 14,
-          "name": "加班滑手機",
-          "total": 302,
-          "appearances": 3,
+          "rank": 16,
+          "name": "不是抽獎羊",
+          "total": 250,
+          "appearances": 2,
           "firsts": 1,
-          "best": 200
+          "best": 150
         },
         {
-          "rank": 15,
+          "rank": 17,
           "name": "羊霧豹發的潛水貢丸",
           "total": 245,
           "appearances": 11,
@@ -34678,15 +35454,15 @@
           "best": 60
         },
         {
-          "rank": 16,
-          "name": "尾田",
-          "total": 201,
-          "appearances": 4,
+          "rank": 18,
+          "name": "羊壽豹發的潛水貢丸",
+          "total": 245,
+          "appearances": 6,
           "firsts": 0,
-          "best": 100
+          "best": 60
         },
         {
-          "rank": 17,
+          "rank": 19,
           "name": "六翼天使",
           "total": 200,
           "appearances": 1,
@@ -34694,7 +35470,7 @@
           "best": 200
         },
         {
-          "rank": 18,
+          "rank": 20,
           "name": "吳唐牛",
           "total": 200,
           "appearances": 2,
@@ -34702,7 +35478,7 @@
           "best": 100
         },
         {
-          "rank": 19,
+          "rank": 21,
           "name": "vs284619735",
           "total": 200,
           "appearances": 1,
@@ -34710,7 +35486,23 @@
           "best": 200
         },
         {
-          "rank": 20,
+          "rank": 22,
+          "name": "慾望的尋愛羊",
+          "total": 165,
+          "appearances": 2,
+          "firsts": 0,
+          "best": 100
+        },
+        {
+          "rank": 23,
+          "name": "垃圾收集蕃薯羊",
+          "total": 160,
+          "appearances": 3,
+          "firsts": 0,
+          "best": 60
+        },
+        {
+          "rank": 24,
           "name": "維風",
           "total": 160,
           "appearances": 2,
@@ -34718,7 +35510,23 @@
           "best": 100
         },
         {
-          "rank": 21,
+          "rank": 25,
+          "name": "豪游天下",
+          "total": 150,
+          "appearances": 2,
+          "firsts": 0,
+          "best": 100
+        },
+        {
+          "rank": 26,
+          "name": "justfree0728",
+          "total": 150,
+          "appearances": 2,
+          "firsts": 0,
+          "best": 100
+        },
+        {
+          "rank": 27,
           "name": "天地喵",
           "total": 150,
           "appearances": 2,
@@ -34726,7 +35534,31 @@
           "best": 100
         },
         {
-          "rank": 22,
+          "rank": 28,
+          "name": "隨緣貢丸",
+          "total": 150,
+          "appearances": 2,
+          "firsts": 0,
+          "best": 100
+        },
+        {
+          "rank": 29,
+          "name": "橘牆老鼠會志工賈斯汀",
+          "total": 148,
+          "appearances": 2,
+          "firsts": 0,
+          "best": 88
+        },
+        {
+          "rank": 30,
+          "name": "新來的阿特",
+          "total": 135,
+          "appearances": 2,
+          "firsts": 0,
+          "best": 100
+        },
+        {
+          "rank": 31,
           "name": "三瓶水",
           "total": 120,
           "appearances": 1,
@@ -34734,7 +35566,7 @@
           "best": 120
         },
         {
-          "rank": 23,
+          "rank": 32,
           "name": "天台吹風的老羊",
           "total": 110,
           "appearances": 3,
@@ -34742,7 +35574,7 @@
           "best": 100
         },
         {
-          "rank": 24,
+          "rank": 33,
           "name": "逸直滴滴不庭羊",
           "total": 110,
           "appearances": 2,
@@ -34750,15 +35582,7 @@
           "best": 100
         },
         {
-          "rank": 25,
-          "name": "垃圾收集蕃薯羊",
-          "total": 110,
-          "appearances": 2,
-          "firsts": 0,
-          "best": 60
-        },
-        {
-          "rank": 26,
+          "rank": 34,
           "name": "自由的魚變成羊",
           "total": 110,
           "appearances": 1,
@@ -34766,7 +35590,15 @@
           "best": 110
         },
         {
-          "rank": 27,
+          "rank": 35,
+          "name": "保羅麵包坊",
+          "total": 110,
+          "appearances": 1,
+          "firsts": 1,
+          "best": 110
+        },
+        {
+          "rank": 36,
           "name": "吊車羊",
           "total": 105,
           "appearances": 2,
@@ -34774,15 +35606,7 @@
           "best": 100
         },
         {
-          "rank": 28,
-          "name": "羊壽豹發的潛水貢丸",
-          "total": 105,
-          "appearances": 3,
-          "firsts": 0,
-          "best": 60
-        },
-        {
-          "rank": 29,
+          "rank": 37,
           "name": "夏目悠希",
           "total": 100,
           "appearances": 1,
@@ -34790,7 +35614,7 @@
           "best": 100
         },
         {
-          "rank": 30,
+          "rank": 38,
           "name": "桌曆透卡夾五千椅子盲盒羊",
           "total": 100,
           "appearances": 1,
@@ -34798,7 +35622,7 @@
           "best": 100
         },
         {
-          "rank": 31,
+          "rank": 39,
           "name": "沒欠你哎_木工羊",
           "total": 100,
           "appearances": 1,
@@ -34806,7 +35630,7 @@
           "best": 100
         },
         {
-          "rank": 32,
+          "rank": 40,
           "name": "半吋",
           "total": 100,
           "appearances": 1,
@@ -34814,7 +35638,7 @@
           "best": 100
         },
         {
-          "rank": 33,
+          "rank": 41,
           "name": "米刻羊",
           "total": 100,
           "appearances": 1,
@@ -34822,7 +35646,7 @@
           "best": 100
         },
         {
-          "rank": 34,
+          "rank": 42,
           "name": "ulay1227",
           "total": 100,
           "appearances": 1,
@@ -34830,7 +35654,7 @@
           "best": 100
         },
         {
-          "rank": 35,
+          "rank": 43,
           "name": "阿宏羊",
           "total": 100,
           "appearances": 1,
@@ -34838,7 +35662,7 @@
           "best": 100
         },
         {
-          "rank": 36,
+          "rank": 44,
           "name": "maski0516",
           "total": 100,
           "appearances": 2,
@@ -34846,7 +35670,7 @@
           "best": 50
         },
         {
-          "rank": 37,
+          "rank": 45,
           "name": "威堡羊",
           "total": 100,
           "appearances": 1,
@@ -34854,7 +35678,7 @@
           "best": 100
         },
         {
-          "rank": 38,
+          "rank": 46,
           "name": "denis13579",
           "total": 100,
           "appearances": 1,
@@ -34862,7 +35686,7 @@
           "best": 100
         },
         {
-          "rank": 39,
+          "rank": 47,
           "name": "kent_liang",
           "total": 100,
           "appearances": 1,
@@ -34870,7 +35694,7 @@
           "best": 100
         },
         {
-          "rank": 40,
+          "rank": 48,
           "name": "安靜的小鈴鐺",
           "total": 100,
           "appearances": 1,
@@ -34878,7 +35702,7 @@
           "best": 100
         },
         {
-          "rank": 41,
+          "rank": 49,
           "name": "抱著你手撒嬌羊",
           "total": 100,
           "appearances": 1,
@@ -34886,7 +35710,7 @@
           "best": 100
         },
         {
-          "rank": 42,
+          "rank": 50,
           "name": "講逼吸地",
           "total": 100,
           "appearances": 1,
@@ -34894,15 +35718,7 @@
           "best": 100
         },
         {
-          "rank": 43,
-          "name": "justfree0728",
-          "total": 100,
-          "appearances": 1,
-          "firsts": 0,
-          "best": 100
-        },
-        {
-          "rank": 44,
+          "rank": 51,
           "name": "絕望的九羊羊",
           "total": 100,
           "appearances": 1,
@@ -34910,7 +35726,7 @@
           "best": 100
         },
         {
-          "rank": 45,
+          "rank": 52,
           "name": "盧色",
           "total": 100,
           "appearances": 1,
@@ -34918,7 +35734,7 @@
           "best": 100
         },
         {
-          "rank": 46,
+          "rank": 53,
           "name": "小花_羊",
           "total": 100,
           "appearances": 1,
@@ -34926,7 +35742,7 @@
           "best": 100
         },
         {
-          "rank": 47,
+          "rank": 54,
           "name": "三個安的各位羊",
           "total": 100,
           "appearances": 1,
@@ -34934,7 +35750,7 @@
           "best": 100
         },
         {
-          "rank": 48,
+          "rank": 55,
           "name": "波桑",
           "total": 100,
           "appearances": 1,
@@ -34942,7 +35758,7 @@
           "best": 100
         },
         {
-          "rank": 49,
+          "rank": 56,
           "name": "阿秋羊",
           "total": 100,
           "appearances": 1,
@@ -34950,7 +35766,7 @@
           "best": 100
         },
         {
-          "rank": 50,
+          "rank": 57,
           "name": "震持久的鹼性電池",
           "total": 100,
           "appearances": 1,
@@ -34958,7 +35774,7 @@
           "best": 100
         },
         {
-          "rank": 51,
+          "rank": 58,
           "name": "一元A錢捐_羊",
           "total": 100,
           "appearances": 1,
@@ -34966,15 +35782,7 @@
           "best": 100
         },
         {
-          "rank": 52,
-          "name": "隨緣貢丸",
-          "total": 100,
-          "appearances": 1,
-          "firsts": 0,
-          "best": 100
-        },
-        {
-          "rank": 53,
+          "rank": 59,
           "name": "一雷德一",
           "total": 100,
           "appearances": 1,
@@ -34982,7 +35790,7 @@
           "best": 100
         },
         {
-          "rank": 54,
+          "rank": 60,
           "name": "mvpsn13",
           "total": 100,
           "appearances": 1,
@@ -34990,7 +35798,7 @@
           "best": 100
         },
         {
-          "rank": 55,
+          "rank": 61,
           "name": "搶票潛水仔",
           "total": 100,
           "appearances": 1,
@@ -34998,7 +35806,7 @@
           "best": 100
         },
         {
-          "rank": 56,
+          "rank": 62,
           "name": "普勞德斯瑪爾特",
           "total": 100,
           "appearances": 1,
@@ -35006,7 +35814,7 @@
           "best": 100
         },
         {
-          "rank": 57,
+          "rank": 63,
           "name": "貓區羊",
           "total": 100,
           "appearances": 1,
@@ -35014,7 +35822,7 @@
           "best": 100
         },
         {
-          "rank": 58,
+          "rank": 64,
           "name": "芒果姆姆",
           "total": 100,
           "appearances": 1,
@@ -35022,7 +35830,7 @@
           "best": 100
         },
         {
-          "rank": 59,
+          "rank": 65,
           "name": "便便便",
           "total": 100,
           "appearances": 1,
@@ -35030,7 +35838,7 @@
           "best": 100
         },
         {
-          "rank": 60,
+          "rank": 66,
           "name": "秋木蘇",
           "total": 100,
           "appearances": 1,
@@ -35038,7 +35846,63 @@
           "best": 100
         },
         {
-          "rank": 61,
+          "rank": 67,
+          "name": "慾望的非洲羊",
+          "total": 100,
+          "appearances": 1,
+          "firsts": 1,
+          "best": 100
+        },
+        {
+          "rank": 68,
+          "name": "chiachi_love",
+          "total": 100,
+          "appearances": 1,
+          "firsts": 0,
+          "best": 100
+        },
+        {
+          "rank": 69,
+          "name": "朝思想汐的小丑月尹羊",
+          "total": 100,
+          "appearances": 1,
+          "firsts": 0,
+          "best": 100
+        },
+        {
+          "rank": 70,
+          "name": "月夜風",
+          "total": 100,
+          "appearances": 1,
+          "firsts": 0,
+          "best": 100
+        },
+        {
+          "rank": 71,
+          "name": "斷腸人路人羊",
+          "total": 100,
+          "appearances": 1,
+          "firsts": 0,
+          "best": 100
+        },
+        {
+          "rank": 72,
+          "name": "阿嚕咪",
+          "total": 100,
+          "appearances": 1,
+          "firsts": 0,
+          "best": 100
+        },
+        {
+          "rank": 73,
+          "name": "肉攤星肉羊",
+          "total": 100,
+          "appearances": 1,
+          "firsts": 0,
+          "best": 100
+        },
+        {
+          "rank": 74,
           "name": "絕望的紫色旋風罐頭羊",
           "total": 87,
           "appearances": 3,
@@ -35046,7 +35910,31 @@
           "best": 40
         },
         {
-          "rank": 62,
+          "rank": 75,
+          "name": "首勝百敗阿龍羊",
+          "total": 80,
+          "appearances": 2,
+          "firsts": 0,
+          "best": 60
+        },
+        {
+          "rank": 76,
+          "name": "首勝百敗六九羊",
+          "total": 75,
+          "appearances": 3,
+          "firsts": 0,
+          "best": 60
+        },
+        {
+          "rank": 77,
+          "name": "佈佈貓",
+          "total": 75,
+          "appearances": 2,
+          "firsts": 0,
+          "best": 45
+        },
+        {
+          "rank": 78,
           "name": "熱情",
           "total": 70,
           "appearances": 1,
@@ -35054,15 +35942,15 @@
           "best": 70
         },
         {
-          "rank": 63,
-          "name": "橘牆老鼠會志工賈斯汀",
-          "total": 60,
+          "rank": 79,
+          "name": "鐵鮪7315",
+          "total": 70,
           "appearances": 1,
           "firsts": 0,
-          "best": 60
+          "best": 70
         },
         {
-          "rank": 64,
+          "rank": 80,
           "name": "貝塔羊",
           "total": 60,
           "appearances": 1,
@@ -35070,15 +35958,31 @@
           "best": 60
         },
         {
-          "rank": 65,
-          "name": "豪游天下",
-          "total": 50,
+          "rank": 81,
+          "name": "Twinkling1008",
+          "total": 60,
           "appearances": 1,
           "firsts": 0,
-          "best": 50
+          "best": 60
         },
         {
-          "rank": 66,
+          "rank": 82,
+          "name": "紫妹光頭韭菜小丑羊",
+          "total": 60,
+          "appearances": 1,
+          "firsts": 0,
+          "best": 60
+        },
+        {
+          "rank": 83,
+          "name": "魔美風",
+          "total": 51,
+          "appearances": 1,
+          "firsts": 0,
+          "best": 51
+        },
+        {
+          "rank": 84,
           "name": "天台上的阿肥",
           "total": 50,
           "appearances": 1,
@@ -35086,7 +35990,7 @@
           "best": 50
         },
         {
-          "rank": 67,
+          "rank": 85,
           "name": "絕望的割草羊",
           "total": 50,
           "appearances": 1,
@@ -35094,7 +35998,7 @@
           "best": 50
         },
         {
-          "rank": 68,
+          "rank": 86,
           "name": "迷逝的路人",
           "total": 50,
           "appearances": 1,
@@ -35102,7 +36006,23 @@
           "best": 50
         },
         {
-          "rank": 69,
+          "rank": 87,
+          "name": "慾望始於領到股息肥宅羊",
+          "total": 50,
+          "appearances": 1,
+          "firsts": 0,
+          "best": 50
+        },
+        {
+          "rank": 88,
+          "name": "克洛伊3109",
+          "total": 50,
+          "appearances": 1,
+          "firsts": 0,
+          "best": 50
+        },
+        {
+          "rank": 89,
           "name": "絕望的尋愛羊",
           "total": 40,
           "appearances": 1,
@@ -35110,15 +36030,7 @@
           "best": 40
         },
         {
-          "rank": 70,
-          "name": "新來的阿特",
-          "total": 35,
-          "appearances": 1,
-          "firsts": 0,
-          "best": 35
-        },
-        {
-          "rank": 71,
+          "rank": 90,
           "name": "我是水哥啦",
           "total": 30,
           "appearances": 1,
@@ -35126,15 +36038,7 @@
           "best": 30
         },
         {
-          "rank": 72,
-          "name": "佈佈貓",
-          "total": 30,
-          "appearances": 1,
-          "firsts": 0,
-          "best": 30
-        },
-        {
-          "rank": 73,
+          "rank": 91,
           "name": "琉唄",
           "total": 30,
           "appearances": 1,
@@ -35142,7 +36046,7 @@
           "best": 30
         },
         {
-          "rank": 74,
+          "rank": 92,
           "name": "絕望的霧葵羊",
           "total": 25,
           "appearances": 1,
@@ -35150,7 +36054,7 @@
           "best": 25
         },
         {
-          "rank": 75,
+          "rank": 93,
           "name": "赤紅眼山豬",
           "total": 25,
           "appearances": 1,
@@ -35158,7 +36062,7 @@
           "best": 25
         },
         {
-          "rank": 76,
+          "rank": 94,
           "name": "曾經獨活的玩具羊",
           "total": 25,
           "appearances": 1,
@@ -35166,23 +36070,7 @@
           "best": 25
         },
         {
-          "rank": 77,
-          "name": "首勝百敗阿龍羊",
-          "total": 20,
-          "appearances": 1,
-          "firsts": 0,
-          "best": 20
-        },
-        {
-          "rank": 78,
-          "name": "首勝百敗六九羊",
-          "total": 15,
-          "appearances": 2,
-          "firsts": 0,
-          "best": 10
-        },
-        {
-          "rank": 79,
+          "rank": 95,
           "name": "成天變成羊",
           "total": 11,
           "appearances": 2,
@@ -35190,7 +36078,7 @@
           "best": 10
         },
         {
-          "rank": 80,
+          "rank": 96,
           "name": "百敗恭賀爸媽羊",
           "total": 10,
           "appearances": 1,
@@ -35198,7 +36086,7 @@
           "best": 10
         },
         {
-          "rank": 81,
+          "rank": 97,
           "name": "智胖胖胖羊",
           "total": 10,
           "appearances": 2,
@@ -35206,7 +36094,7 @@
           "best": 5
         },
         {
-          "rank": 82,
+          "rank": 98,
           "name": "海豹會跌倒",
           "total": 10,
           "appearances": 2,
@@ -35214,7 +36102,7 @@
           "best": 5
         },
         {
-          "rank": 83,
+          "rank": 99,
           "name": "首勝百敗爸媽羊",
           "total": 10,
           "appearances": 1,
@@ -35222,7 +36110,7 @@
           "best": 10
         },
         {
-          "rank": 84,
+          "rank": 100,
           "name": "板烤雞腿羊",
           "total": 5,
           "appearances": 1,
@@ -35230,7 +36118,7 @@
           "best": 5
         },
         {
-          "rank": 85,
+          "rank": 101,
           "name": "批送羊",
           "total": 5,
           "appearances": 1,
@@ -35238,7 +36126,7 @@
           "best": 5
         },
         {
-          "rank": 86,
+          "rank": 102,
           "name": "愛睏の羊",
           "total": 5,
           "appearances": 1,
@@ -35246,7 +36134,7 @@
           "best": 5
         },
         {
-          "rank": 87,
+          "rank": 103,
           "name": "帶霞羔羊",
           "total": 5,
           "appearances": 1,
@@ -35254,7 +36142,7 @@
           "best": 5
         },
         {
-          "rank": 88,
+          "rank": 104,
           "name": "阿牛羊",
           "total": 5,
           "appearances": 1,
@@ -35262,7 +36150,7 @@
           "best": 5
         },
         {
-          "rank": 89,
+          "rank": 105,
           "name": "櫻桃魔法",
           "total": 5,
           "appearances": 1,
@@ -35270,7 +36158,7 @@
           "best": 5
         },
         {
-          "rank": 90,
+          "rank": 106,
           "name": "杉吾",
           "total": 5,
           "appearances": 1,
@@ -35278,7 +36166,7 @@
           "best": 5
         },
         {
-          "rank": 91,
+          "rank": 107,
           "name": "維克",
           "total": 5,
           "appearances": 1,
@@ -35286,7 +36174,7 @@
           "best": 5
         },
         {
-          "rank": 92,
+          "rank": 108,
           "name": "pc950167",
           "total": 2,
           "appearances": 2,
@@ -35294,7 +36182,7 @@
           "best": 1
         },
         {
-          "rank": 93,
+          "rank": 109,
           "name": "楊羊",
           "total": 2,
           "appearances": 2,
@@ -35302,7 +36190,7 @@
           "best": 1
         },
         {
-          "rank": 94,
+          "rank": 110,
           "name": "首勝百敗企鵝羊",
           "total": 1,
           "appearances": 1,
@@ -35310,7 +36198,7 @@
           "best": 1
         },
         {
-          "rank": 95,
+          "rank": 111,
           "name": "我是阿農",
           "total": 1,
           "appearances": 1,
@@ -35318,7 +36206,7 @@
           "best": 1
         },
         {
-          "rank": 96,
+          "rank": 112,
           "name": "慾望的九羊羊",
           "total": 1,
           "appearances": 1,
@@ -35326,7 +36214,7 @@
           "best": 1
         }
       ],
-      "listedGiftTotal": 18751
+      "listedGiftTotal": 21912
     }
   ]
 }
