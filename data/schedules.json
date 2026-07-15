@@ -2423,6 +2423,30 @@
         "workSeconds": 865,
         "barSeconds": 2606,
         "mode": "stream"
+      },
+      {
+        "round": 23,
+        "start": "2026-07-14 09:25",
+        "streamSeconds": 1935,
+        "workSeconds": 925,
+        "barSeconds": 1935,
+        "mode": "stream"
+      },
+      {
+        "round": 24,
+        "start": "2026-07-14 22:51",
+        "streamSeconds": 2019,
+        "workSeconds": 45,
+        "barSeconds": 2019,
+        "mode": "stream"
+      },
+      {
+        "round": 25,
+        "start": "2026-07-15 12:02",
+        "streamSeconds": 2440,
+        "workSeconds": 1071,
+        "barSeconds": 2440,
+        "mode": "stream"
       }
     ],
     "dates": [
@@ -2438,7 +2462,9 @@
       "2026-07-10",
       "2026-07-11",
       "2026-07-12",
-      "2026-07-13"
+      "2026-07-13",
+      "2026-07-14",
+      "2026-07-15"
     ],
     "segments": [
       {
@@ -2614,6 +2640,27 @@
         "date": "2026-07-13",
         "start": 1057,
         "end": 1100.4333333333,
+        "kind": "stream"
+      },
+      {
+        "round": 23,
+        "date": "2026-07-14",
+        "start": 565,
+        "end": 597.25,
+        "kind": "stream"
+      },
+      {
+        "round": 24,
+        "date": "2026-07-14",
+        "start": 1371,
+        "end": 1404.65,
+        "kind": "stream"
+      },
+      {
+        "round": 25,
+        "date": "2026-07-15",
+        "start": 722,
+        "end": 762.6666666667,
         "kind": "stream"
       }
     ]
