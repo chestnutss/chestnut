@@ -2495,6 +2495,54 @@
         "workSeconds": 21,
         "barSeconds": 2563,
         "mode": "stream"
+      },
+      {
+        "round": 32,
+        "start": "2026-07-19 12:57",
+        "streamSeconds": 2090,
+        "workSeconds": 813,
+        "barSeconds": 2090,
+        "mode": "stream"
+      },
+      {
+        "round": 33,
+        "start": "2026-07-20 01:56",
+        "streamSeconds": 2321,
+        "workSeconds": 901,
+        "barSeconds": 2321,
+        "mode": "stream"
+      },
+      {
+        "round": 34,
+        "start": "2026-07-20 16:51",
+        "streamSeconds": 3049,
+        "workSeconds": 1153,
+        "barSeconds": 3049,
+        "mode": "stream"
+      },
+      {
+        "round": 35,
+        "start": "2026-07-21 11:11",
+        "streamSeconds": 3674,
+        "workSeconds": 1635,
+        "barSeconds": 3674,
+        "mode": "stream"
+      },
+      {
+        "round": 36,
+        "start": "2026-07-22 00:49",
+        "streamSeconds": 2781,
+        "workSeconds": 1640,
+        "barSeconds": 2781,
+        "mode": "stream"
+      },
+      {
+        "round": 37,
+        "start": "2026-07-22 21:29",
+        "streamSeconds": 2759,
+        "workSeconds": 429,
+        "barSeconds": 2759,
+        "mode": "stream"
       }
     ],
     "dates": [
@@ -2515,7 +2563,11 @@
       "2026-07-15",
       "2026-07-16",
       "2026-07-17",
-      "2026-07-18"
+      "2026-07-18",
+      "2026-07-19",
+      "2026-07-20",
+      "2026-07-21",
+      "2026-07-22"
     ],
     "segments": [
       {
@@ -2754,6 +2806,48 @@
         "date": "2026-07-18",
         "start": 1367,
         "end": 1409.7166666667,
+        "kind": "stream"
+      },
+      {
+        "round": 32,
+        "date": "2026-07-19",
+        "start": 777,
+        "end": 811.8333333333,
+        "kind": "stream"
+      },
+      {
+        "round": 33,
+        "date": "2026-07-20",
+        "start": 116,
+        "end": 154.6833333333,
+        "kind": "stream"
+      },
+      {
+        "round": 34,
+        "date": "2026-07-20",
+        "start": 1011,
+        "end": 1061.8166666667,
+        "kind": "stream"
+      },
+      {
+        "round": 35,
+        "date": "2026-07-21",
+        "start": 671,
+        "end": 732.2333333333,
+        "kind": "stream"
+      },
+      {
+        "round": 36,
+        "date": "2026-07-22",
+        "start": 49,
+        "end": 95.35,
+        "kind": "stream"
+      },
+      {
+        "round": 37,
+        "date": "2026-07-22",
+        "start": 1289,
+        "end": 1334.9833333333,
         "kind": "stream"
       }
     ]
